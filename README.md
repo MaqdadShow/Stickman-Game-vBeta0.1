@@ -47,14 +47,16 @@ You control a stickman who can **barely walk**, and you must use physics to:
 
 ## 📸 Screenshots / GIFs
 
-_(Add your images here, using the format below)_
+<img width="1920" height="1080" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/2af1c7da-d837-4cb5-bf3d-8022857b6005" />
+
+<img width="1920" height="1080" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/aa08e07d-c9e7-419b-8e68-f922d6119c66" />
 
 
 ---
 
 ## 🚀 How to Play
 
-- Move the character using 'WASD', 'Space', 'R' to restart to the last checkpoint  
+- Move the character using 'WASD', 'Space' to jump, 'R' to restart to the last checkpoint  
 - Use physics interactions to solve puzzles and move forward  
 - Reach the goal to unlock the next level
 
