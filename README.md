@@ -52,7 +52,7 @@ _(Add your images here, using the format below)_
 
 ---
 
-## 🚀 How to Play (Optional)
+## 🚀 How to Play
 
 - Move the character using 'WASD', 'Space', 'R' to restart to the last checkpoint  
 - Use physics interactions to solve puzzles and move forward  
